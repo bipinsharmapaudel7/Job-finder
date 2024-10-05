@@ -1,4 +1,4 @@
-Job Finder Application
+Job Finder Application:
 This is a backend-only Django-based job finder application that allows job seekers (users) to register, create profiles, search for jobs, and apply for jobs. Admins can manage job postings and view job applications. The application exposes API endpoints for user authentication, job search, job application, and admin functionalities.
 
 Features:
